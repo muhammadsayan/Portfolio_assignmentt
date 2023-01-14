@@ -1,0 +1,86 @@
+.back{
+    background-image: url(../pr/banner1.png);
+    border: 100px 100px;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding-top: 400px;
+
+}
+.org{
+    color: wheat;
+    background-color: orange;
+    border: none;
+
+}
+.wt{
+    color: azure;
+}
+
+
+.thr{
+    text-align: center;
+    font-size: 50px;
+    
+
+}
+.class{
+    display: flex;
+    justify-content: space-around
+
+}
+.img{
+    background-image: url(../pr/watch.png);
+width: 1500px;
+    
+    height: 300px;
+    background-repeat: no-repeat;
+    padding: 100px;
+    padding-top: 50px;
+    margin: 100px;
+    
+}
+.bts{
+    height: 70px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: orange;
+    border: 0;
+    background-blend-mode: multiply;
+
+    
+    padding:  30px;
+}
+
+
+
+.blc{
+    background-color: black;
+    color: azure;
+    
+padding: 100px 100px;
+}
+
+
+
+.footer-div{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.new div{
+
+    margin: 0 200px;
+    
+    justify-content: space-between;
+display: flex;
+}
+
+
+
+
+
+
+    
+
